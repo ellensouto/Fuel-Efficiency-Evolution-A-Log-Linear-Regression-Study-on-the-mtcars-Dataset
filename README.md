@@ -65,9 +65,3 @@ As a result of this project, the suggested predictive framework for a standard 1
 
 * **Interaction Effects:** Explore if the effect of horsepower on fuel efficiency differs significantly between manual and automatic transmissions.
 * **Polynomial Regression:** Test for non-linear power effects (e.g., ) to see if the rate of efficiency decay changes at very high horsepower levels.
-
-```
-
-**Would you like me to generate a `README.md` file in a single code block for easy copying, or should I help you document the specific outlier detection math used?**
-
-```
